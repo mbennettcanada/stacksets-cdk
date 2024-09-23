@@ -1,14 +1,3 @@
-# Welcome to your CDK TypeScript project
+# Welcome to Stacksets-cdk
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+This is a demo project for a blog post on polarops.ca. [Check it out here] (https://polarops.ca/index.php/2024/09/23/deploy-stacksets-via-cdk-with-stackset-instance-waiting-and-error-reporting/)
